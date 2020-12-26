@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [amanag.11@gmail.com](mailto:amanag.11@gmail.com)
+- Email: [adit.modhvadia@gmail.com](mailto:adit.modhvadia@gmail.com)
 
 ---
 
 ## Mailing Address
 
-R 203, Rohan Mithila I
-Pune, Maharashtra
-India
+75 Saint Alphonsus Street
+Boston, 02120
 
 ---
 
 ## Social
 
-1. [LinkedIn](https://www.linkedin.com/in/aman-agarwal-743548137/)
-2. [Twitter](https://twitter.com/TheAbecedarian_)
-3. [Medium](https://medium.com/@amanag.11)
-4. [GitHub](https://github.com/amanbasu)
+1. [LinkedIn](https://www.linkedin.com/in/adit-modhvadia/)
+2. [Twitter](https://twitter.com/AditModhvadia)
+<!-- 3. [Medium](https://medium.com/@amanag.11) -->
+3. [GitHub](https://github.com/aditmodhvadia)
 
 <!--p align="center">
   <a href="https://twitter.com/aman_ag11">
