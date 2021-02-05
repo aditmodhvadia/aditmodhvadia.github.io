@@ -7,35 +7,17 @@ layout: default
 hello world! <br>
 
 <p align="justify" style="margin:0 30px 0 0;">
-  i am a software engineer at <span style="color: #ef241c">hsbc technology</span> india. i did my undergraduate in computer engineering from <span style="color: #0a377a">nirma university</span>, ahmedabad, india. i have been working in the field of artificial intelligence and machine learning, having experience in projects involving computer vision, medical imaging, satellite imagery, signal processing, nuclear physics, and parallel computing.
+  i graduated with a master of science in software development from <span style="color: #ef241c">boston university</span>. i am proficient in many programming languages and my key interest areas are mobile application development and server side development. i am passionate about android, flutter, ktor and exploring many other technologies. i aspire to bring positive, beautiful, and secure changes through my work.
 </p>
 
 _i am very passionate about Formula 1 and music._
 
-<!-- ## research interest -->
-<!-- applications of deep learning and computer vision in the domain of medical imaging, nuclear physics, and autonomous driving. -->
-
 ## news
 
-<!-- - oct 2020: our paper on prostate segmentation accepted in *pattern recognition & image inalysis*. -->
-<!-- - sep 2020: bagged the <span style="color: #ef241c">hsbc hero award</span> for our exceptional work at hsbc during covid-19 pandemic. -->
-<!-- - aug 2020: got certified as <span style="color: #ff9900">aws</span> machine learning specialist, developer, and solutions architect. -->
-<!-- - apr 2020: gave a talk on *super-resolution using deep learning* at <span style="color: #0a377a">nirma university</span>, ahmedabad. -->
-
+- jan 2021: graduated from <span style="color: #ef241c">boston university</span> with masters of science in software development.
+- aug 2020: passed the google associate android developer kotlin exam.
 - oct 2019: graduated from <span style="color: #0a377a">nirma university</span> with a bachelor's degree in computer engineering.
-<!-- - sep 2019: received the *most innovative idea* award for our work on authenticating users from electrocardiogram signals and deep learning methods. -->
-
-<details><summary>read more</summary>
-<p>
-  <ul>
-    <!-- <li>jul 2019: joined <span style="color: #ef241c">hsbc software development</span>, india as a software engineer.</li> -->
-    <!-- <li>apr 2019: conducted <span style="color: #76b900">nvidia dli workshop</span> on topics of computer vision, dl for multiple data types, and cuda programming at mahindra école centrale, hyderabad.</li> -->
-    <!-- <li>apr 2019: presented our poster, on prostate segmentation at <span style="color: #76b900">nvidia gpu technology conference (gtc)</span>, san jose.</li> -->
-  </ul>
-</p>
-</details>
-
-## open-source projects
+<!-- ## open-source projects
 
 ### using ecg for biometric authentication [[code](https://github.com/amanbasu/ecg-authentication)] [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
 
@@ -47,7 +29,7 @@ _i am very passionate about Formula 1 and music._
   [reference](https://ieeexplore.ieee.org/document/7353191)
 
 <!-- img src="https://media.giphy.com/media/dugb9or2ktw4ab4khy/giphy.gif" width="40%"/><br/-->
-<!-- *source: security heartbeat gif by sandia national labs* -->
+<!-- *source: security heartbeat gif by sandia national labs*
 
 ### object detection in satellite images [[code](https://github.com/amanbasu/ship-detection)]
 
@@ -63,7 +45,7 @@ _i am very passionate about Formula 1 and music._
 - our enhanced v-net model outperformed the results of the baseline in the _promise12_ challenge.
 - the model was enhanced by tweaking its architecture, adding dilation, and deep supervision. we improved the accuracy by 6%.
 
-<p align="center">  
+<p align="center">
   <img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%"/>
 </p>
 
@@ -73,7 +55,7 @@ _i am very passionate about Formula 1 and music._
 - we were able to anticipate the disruption of plasma 12 ms prior to the actual disruption (4 ms earlier than the state-of-the-art models).
 - input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings, and many other.
 
-<p align="center">  
+<p align="center">
   <img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%"/>
   <p align="center">our model predicting the disruption in tokamak plasma in real time.</p>
 </p>
@@ -94,9 +76,9 @@ _i am very passionate about Formula 1 and music._
 - convolutional neural network was used to classify the direction of car from dashcam images.
 - the model was deployed on raspberry pi for real-time predictions.
 
-<p align="center">  
+<p align="center">
   <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%"/>
-</p>
+</p> -->
 
 <!--
 ## other projects
@@ -134,18 +116,14 @@ _i am very passionate about Formula 1 and music._
 - introduction to big data by university of california san diego.
 - fundamentals of accelerated computing with cuda, by nvidia.
 - computer vision specialization by university of buffalo.
+-->
 
-<!--
-## achievements
-- poster presentation at **nvidia gtc** (2019) [[poster](img/deep%20learning%20research_20_p9190_aman_agarwal_1920x1607.png)]
-- **most innovative idea** award at hsbc global graduates hackathon (2019) [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
-
-<!--
 ## hobbies & interests
-- body building and cooking.
-- health & nutrition.
-- human anatomy.
-- cricket, badminton. -->
+
+- hip-hop, rap and edm.
+- technology.
+- formula 1, basketball and football.
+- cooking.
 
 <p align="center">  
   <a href="https://twitter.com/AditModhvadia">
