@@ -1,6 +1,6 @@
-# Researcher Jekyll Theme
+# Simple Jekyll Theme
 
-### [Visit the live Website](https://amanagarwal.io)
+### [Visit the live Website](https://aditmodhvadia.github.io)
 
 A clean, single column, monospace homepage template built for jekyll.
 
@@ -8,4 +8,3 @@ A clean, single column, monospace homepage template built for jekyll.
 
 Simply fork the repository and edit away.
 Visit [ankitsultana/researcher](https://github.com/ankitsultana/researcher) for more info.
-
