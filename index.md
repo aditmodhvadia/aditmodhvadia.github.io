@@ -17,9 +17,9 @@ _i am very passionate about Formula 1 and music._
 - jan 2021: graduated from <span style="color: #ef241c">boston university</span> with masters of science in software development.
 - aug 2020: passed the google associate android developer kotlin exam.
 - oct 2019: graduated from <span style="color: #0a377a">nirma university</span> with a bachelor's degree in computer engineering.
-<!-- ## open-source projects
+<!-- ## open-source projects -->
 
-### using ecg for biometric authentication [[code](https://github.com/amanbasu/ecg-authentication)] [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
+<!-- ### using ecg for biometric authentication [[code](https://github.com/amanbasu/ecg-authentication)] [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
 
 <img src="https://img.shields.io/github/stars/amanbasu/ecg-authentication?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/ecg-authentication?color=ff8800"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
 
